@@ -3,7 +3,7 @@
 A beginner-friendly **BMI Calculator** built in Python.
 This program calculates BMI for 3 people, classifies results using WHO standards, and saves all reports to a text file.
 
---- 
+---
 
 ## About
 This project demonstrates core python concepts.
