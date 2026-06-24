@@ -1,0 +1,9 @@
+BMI REPORT FOR DEBORAH
+Age: 20 | BMI: 20.8 | Category: Normal weight
+----------------------------------------
+BMI REPORT FOR DAD
+Age: 40 | BMI: 26.1 | Category: overweight
+----------------------------------------
+BMI REPORT FOR MUM
+Age: 30 | BMI: 27.3 | Category: overweight
+----------------------------------------
